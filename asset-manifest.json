@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Leasing-Calculator/static/css/main.31701886.css",
+    "main.js": "/Leasing-Calculator/static/js/main.d23359ba.js",
+    "static/media/Nekst-Black.svg": "/Leasing-Calculator/static/media/Nekst-Black.42a16150744d70a1676d.svg",
+    "static/media/Gilroy-Regular.svg": "/Leasing-Calculator/static/media/Gilroy-Regular.ac01d908ad50f44f7e82.svg",
+    "static/media/Nekst-Black.ttf": "/Leasing-Calculator/static/media/Nekst-Black.2ba7f176a4357a4461ff.ttf",
+    "static/media/Gilroy-Regular.ttf": "/Leasing-Calculator/static/media/Gilroy-Regular.2738615b94ab5c2cbf23.ttf",
+    "static/media/Nekst-Black.woff": "/Leasing-Calculator/static/media/Nekst-Black.2c6f55c7536a4f55ef27.woff",
+    "static/media/Nekst-Black.woff2": "/Leasing-Calculator/static/media/Nekst-Black.c34aa48009cdfe7a8090.woff2",
+    "static/media/Gilroy-Regular.woff": "/Leasing-Calculator/static/media/Gilroy-Regular.2715ceef17118b78828e.woff",
+    "static/media/Gilroy-Regular.woff2": "/Leasing-Calculator/static/media/Gilroy-Regular.4d5df23f676b9c4f0ce6.woff2",
+    "index.html": "/Leasing-Calculator/index.html",
+    "main.31701886.css.map": "/Leasing-Calculator/static/css/main.31701886.css.map",
+    "main.d23359ba.js.map": "/Leasing-Calculator/static/js/main.d23359ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31701886.css",
+    "static/js/main.d23359ba.js"
+  ]
+}
